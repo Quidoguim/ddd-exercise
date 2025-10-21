@@ -1,1 +1,1 @@
-# ddd
+Domain-Driven Design (DDD) é uma abordagem de design de software que coloca o domínio do negócio no centro das decisões, promovendo uma linguagem ubíqua entre desenvolvedores e especialistas, delimitando bounded contexts com modelos coesos e protegidos por agregados (entidades e value objects), usando serviços e eventos de domínio quando necessário e mantendo camadas bem definidas (domínio, aplicação e infraestrutura) para reduzir acoplamento e tornar sistemas complexos mais fáceis de evoluir.
